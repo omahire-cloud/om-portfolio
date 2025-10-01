@@ -1,10 +1,7 @@
 # Om Kailas Ahire
 
 
-<p align="center">
-  <img src="photo.jpg" alt="Om Kailas Ahire" width="150">
-</p>
-
+<img src="photo.jpg" alt="Om Kailas Ahire" width="150" align="left" />
 [View the Project on GitHub](https://github.com/omahire-cloud/om-portfolio)
 📍 Pune, Maharashtra  
 📞 +91 9022061039  
