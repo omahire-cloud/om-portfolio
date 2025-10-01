@@ -1,7 +1,9 @@
 # Om Kailas Ahire
 
 
-<img src="photo.jpg" alt="Logo" width="120" style="border-radius:50%">
+<p align="center">
+  <img src="photo.jpg" alt="Om Kailas Ahire" width="150">
+</p>
 
 [View the Project on GitHub](https://github.com/omahire-cloud/om-portfolio)
 📍 Pune, Maharashtra  
